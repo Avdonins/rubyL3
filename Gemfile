@@ -1,6 +1,12 @@
 source 'https://rubygems.org'
 
 gem 'rails'
+
+# The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
+gem "sprockets-rails"
+
+gem 'rails-controller-testing'
+
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
@@ -11,6 +17,7 @@ gem 'bootsnap'
 gem "tzinfo-data"
 gem 'puma'
 gem 'sdoc', group: :doc
+gem 'bootstrap-sass'
 
 group :development, :test do
   gem 'sqlite3'
