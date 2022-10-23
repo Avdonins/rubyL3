@@ -7,6 +7,8 @@ gem "sprockets-rails"
 
 gem 'rails-controller-testing'
 
+gem 'bcrypt'
+
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
