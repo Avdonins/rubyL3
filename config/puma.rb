@@ -10,7 +10,7 @@ threads min_threads_count, max_threads_count
 
 preload_app!
 
-rackup      DefaultRackup
+#rackup      DefaultRackup
 
 # Specifies the `worker_timeout` threshold that Puma will use to wait before
 # terminating a worker in development environments.
