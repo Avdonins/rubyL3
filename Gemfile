@@ -11,6 +11,12 @@ gem 'bcrypt'
 
 gem 'webpacker'
 
+gem 'faker'
+
+gem 'will_paginate'
+
+gem 'bootstrap-will_paginate'
+
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
