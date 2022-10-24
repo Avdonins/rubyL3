@@ -9,6 +9,8 @@ gem 'rails-controller-testing'
 
 gem 'bcrypt'
 
+gem 'webpacker'
+
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
